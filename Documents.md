@@ -3,7 +3,8 @@
 ## WhiteHats Hub
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteHat-Jim/Games/Roblox/Bloxfruits/WhiteHatsHub.lua"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteHat-Jim/Games/Roblox/Bloxfruits/WhiteHatsHub.lua"))()
+```
 ## Mama Hub
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteHat-Jim/Games/Roblox/Bloxfruits/MamaHub.lua"))()```
